@@ -159,7 +159,5 @@ O programa exibirá no terminal:
 
 Ao final, será exibido o gráfico da frequência dos graus.
 
-```
-
 A implementação foi mantida em um único arquivo Python, organizada em
 funções para facilitar a leitura e a compreensão do código.
