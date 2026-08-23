@@ -159,13 +159,6 @@ O programa exibirá no terminal:
 
 Ao final, será exibido o gráfico da frequência dos graus.
 
-## Estrutura do projeto
-
-``` text
-Trabalho 01/
-│
-├── .venv/
-└── trabalho.py
 ```
 
 A implementação foi mantida em um único arquivo Python, organizada em
