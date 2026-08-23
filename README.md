@@ -1,4 +1,4 @@
-# Trabalho 01 --- Resolução de Problemas com Grafos
+# Resolução de Problemas com Grafos
 
 ## Descrição
 
@@ -8,7 +8,7 @@ representa as fronteiras entre as Unidades Federativas (UFs) do Brasil.
 Cada UF é representada por um vértice e cada fronteira compartilhada
 entre duas UFs é representada por uma aresta.
 
-O projeto foi desenvolvido para a disciplina **T290 --- Resolução de
+O projeto foi desenvolvido para a disciplina **Resolução de
 Problemas com Grafos**.
 
 ## Objetivos
